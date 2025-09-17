@@ -1,1 +1,1 @@
-print('This is simple python test with jenkin + git with version7')
+print('This is simple python test with jenkin + git with version10')
